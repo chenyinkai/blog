@@ -1,7 +1,10 @@
 # blog
-博客见 Issues
 
-# 日常积累
-* 日常工作中的一些项目难点、bug的处理（Difficulties & Bug）
-* 学习中的一些小知识点的总结，一俩句话就能总结归纳，将其写成一篇博客又没必要（knowledge）
-* 常用代码收集，兼容IE8+（Common Code）
+博客见 [Issues](https://github.com/chenyinkai/blog/issues)
+
+### Promise
+
+* [Promise对象](https://github.com/chenyinkai/blog/issues/21)
+* [实现一个简单版本的Promise](https://github.com/chenyinkai/blog/issues/23)
+* [基于Promise的图片预加载插件并且可以展示加载进度](https://github.com/chenyinkai/resloader)
+
