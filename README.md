@@ -19,3 +19,13 @@
 * [vue-router笔记](https://github.com/chenyinkai/blog/issues/9)
 * [vuex](https://github.com/chenyinkai/blog/issues/2)
 
+## JavaScript
+
+* [谈谈 JavaScript 的模块化](https://github.com/chenyinkai/blog/issues/35)
+* [更优雅的处理异步方式 -- async await](https://github.com/chenyinkai/blog/issues/34)
+* [复制文本加上版权信息功能实现](https://github.com/chenyinkai/blog/issues/26)
+* [实现函数防抖](https://github.com/chenyinkai/blog/issues/24)
+
+## WEB
+
+* [XSS和CSRF](https://github.com/chenyinkai/blog/issues/29)
