@@ -25,6 +25,7 @@
 * [更优雅的处理异步方式 -- async await](https://github.com/chenyinkai/blog/issues/34)
 * [复制文本加上版权信息功能实现](https://github.com/chenyinkai/blog/issues/26)
 * [实现函数防抖](https://github.com/chenyinkai/blog/issues/24)
+* [arguments 与 剩余参数(...args) 的区别](https://github.com/chenyinkai/blog/issues/37)
 
 ## WEB
 
