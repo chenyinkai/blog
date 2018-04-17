@@ -4,13 +4,24 @@
 
 完整博客见 [Issues](https://github.com/chenyinkai/blog/issues)
 
-## Promise
+## 社交
+
+[segmentfault](https://segmentfault.com/u/chenyinkai)
+
+[掘金](https://juejin.im/user/598829876fb9a03c5754c6fe)
+## 联系
+
+QQ(邮箱)：287696322(@qq.com)
+
+## 文章
+
+### Promise
 
 * [Promise对象](https://github.com/chenyinkai/blog/issues/21)
 * [实现一个简单版本的Promise](https://github.com/chenyinkai/blog/issues/23)
 * [基于Promise的图片预加载插件并且可以展示加载进度](https://github.com/chenyinkai/resloader)
 
-## Vue
+### Vue
 
 * [vue-router 的两种模式](https://github.com/chenyinkai/blog/issues/33)
 * [vue-cli 搭建的项目处理不同环境下请求不同域名的问题](https://github.com/chenyinkai/blog/issues/31)
@@ -19,7 +30,7 @@
 * [vue-router笔记](https://github.com/chenyinkai/blog/issues/9)
 * [vuex](https://github.com/chenyinkai/blog/issues/2)
 
-## JavaScript
+### JavaScript
 
 * [谈谈 JavaScript 的模块化](https://github.com/chenyinkai/blog/issues/35)
 * [更优雅的处理异步方式 -- async await](https://github.com/chenyinkai/blog/issues/34)
@@ -27,6 +38,7 @@
 * [实现函数防抖](https://github.com/chenyinkai/blog/issues/24)
 * [arguments 与 剩余参数(...args) 的区别](https://github.com/chenyinkai/blog/issues/37)
 
-## WEB
+### WEB
 
 * [XSS和CSRF](https://github.com/chenyinkai/blog/issues/29)
+* [vim常用命令](https://github.com/chenyinkai/blog/issues/39)
