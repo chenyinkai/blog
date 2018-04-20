@@ -25,6 +25,7 @@ QQ(邮箱)：287696322(@qq.com)
 ### Vue
 
 * [vue-router 的两种模式](https://github.com/chenyinkai/blog/issues/33)
+* [nginx配置多个vue项目](https://github.com/chenyinkai/blog/issues/40)
 * [vue-cli 搭建的项目处理不同环境下请求不同域名的问题](https://github.com/chenyinkai/blog/issues/31)
 * [vue非父子组件之间通信](https://github.com/chenyinkai/blog/issues/28)
 * [vue父子组件通信](https://github.com/chenyinkai/blog/issues/22)
@@ -38,8 +39,10 @@ QQ(邮箱)：287696322(@qq.com)
 * [复制文本加上版权信息功能实现](https://github.com/chenyinkai/blog/issues/26)
 * [实现函数防抖](https://github.com/chenyinkai/blog/issues/24)
 * [arguments 与 剩余参数(...args) 的区别](https://github.com/chenyinkai/blog/issues/37)
+* [CSS 和 JS 实现持续的动画效果](https://github.com/chenyinkai/blog/issues/41)
 
 ### WEB
 
 * [XSS和CSRF](https://github.com/chenyinkai/blog/issues/29)
 * [vim常用命令](https://github.com/chenyinkai/blog/issues/39)
+* [http状态码 200(From Cache)和 304(Not Modified)的区别](https://github.com/chenyinkai/blog/issues/36)
