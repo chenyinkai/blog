@@ -24,6 +24,7 @@ QQ(邮箱)：287696322(@qq.com)
 
 ### Vue
 
+* [vue首屏加载优化](https://github.com/chenyinkai/blog/issues/42)
 * [vue-router 的两种模式](https://github.com/chenyinkai/blog/issues/33)
 * [nginx配置多个vue项目](https://github.com/chenyinkai/blog/issues/40)
 * [vue-cli 搭建的项目处理不同环境下请求不同域名的问题](https://github.com/chenyinkai/blog/issues/31)
@@ -34,12 +35,13 @@ QQ(邮箱)：287696322(@qq.com)
 
 ### JavaScript
 
+* [理解js中的事件循环](https://github.com/chenyinkai/blog/issues/43)
+* [CSS 和 JS 实现持续的动画效果](https://github.com/chenyinkai/blog/issues/41)
 * [谈谈 JavaScript 的模块化](https://github.com/chenyinkai/blog/issues/35)
 * [更优雅的处理异步方式 -- async await](https://github.com/chenyinkai/blog/issues/34)
 * [复制文本加上版权信息功能实现](https://github.com/chenyinkai/blog/issues/26)
 * [实现函数防抖](https://github.com/chenyinkai/blog/issues/24)
 * [arguments 与 剩余参数(...args) 的区别](https://github.com/chenyinkai/blog/issues/37)
-* [CSS 和 JS 实现持续的动画效果](https://github.com/chenyinkai/blog/issues/41)
 
 ### WEB
 
