@@ -16,12 +16,6 @@ QQ(邮箱)：287696322(@qq.com)
 
 ## 文章
 
-### Promise
-
-* [Promise对象](https://github.com/chenyinkai/blog/issues/21)
-* [实现一个简单版本的Promise](https://github.com/chenyinkai/blog/issues/23)
-* [基于Promise的图片预加载插件并且可以展示加载进度](https://github.com/chenyinkai/resloader)
-
 ### Vue
 
 * [vue首屏加载优化](https://github.com/chenyinkai/blog/issues/42)
@@ -43,8 +37,18 @@ QQ(邮箱)：287696322(@qq.com)
 * [实现函数防抖](https://github.com/chenyinkai/blog/issues/24)
 * [arguments 与 剩余参数(...args) 的区别](https://github.com/chenyinkai/blog/issues/37)
 
+### Promise
+
+* [Promise对象](https://github.com/chenyinkai/blog/issues/21)
+* [实现一个简单版本的Promise](https://github.com/chenyinkai/blog/issues/23)
+* [基于Promise的图片预加载插件并且可以展示加载进度](https://github.com/chenyinkai/resloader)
+
 ### WEB
 
 * [XSS和CSRF](https://github.com/chenyinkai/blog/issues/29)
 * [vim常用命令](https://github.com/chenyinkai/blog/issues/39)
 * [http状态码 200(From Cache)和 304(Not Modified)的区别](https://github.com/chenyinkai/blog/issues/36)
+
+### other
+
+* [面试经历分享](https://github.com/chenyinkai/blog/issues/46)
