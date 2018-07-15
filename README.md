@@ -52,3 +52,9 @@ QQ(邮箱)：287696322(@qq.com)
 ### other
 
 * [面试经历分享](https://github.com/chenyinkai/blog/issues/46)
+
+### 微信公众号
+
+> 每天推送一篇文章，让肚子装点墨水，欢迎关注～
+
+![微信公众号](https://www.cykspace.com/qrcode.jpg)
